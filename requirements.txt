@@ -1,0 +1,7 @@
+langchain
+huggingface_hub
+gtp4all
+flask
+twilio
+shlex
+subprocess
